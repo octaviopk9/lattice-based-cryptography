@@ -16,7 +16,13 @@ layout: default
 - [2nd BIU Winter School on Lattice-based Cryptography and Applications](https://cyber.biu.ac.il/event/the-2nd-biu-winter-school/)
 
 ## PhD Thesis on Lattice-based Cryptography
-- [Design and Implementation of Lattice-Based Cryptography (Tancrède Lepoint)](https://tlepoint.github.io/phd/lepoint-phd-thesis.pdf)
+- [Design and Implementation of Lattice-Based Cryptography (Tancrède Lepoint, 2014)](https://tlepoint.github.io/phd/lepoint-phd-thesis.pdf)
+- [On ideal lattices and the GGH13 multilinear map (Alice Pellet--Mary, 2019)](https://apelletm.pages.math.cnrs.fr/page-perso/documents/articles/PhD_thesis.pdf)
+- [Lattice-based Protocols for Privacy (Cecilia Boschini, 2020)](https://doc.rero.ch/record/328567/files/2020INFO002.pdf)
+- [Practice-Oriented Techniques in Lattice-Based Cryptography (Muhammed F. Esgin, 2020)](https://bridges.monash.edu/articles/thesis/Practice-Oriented_Techniques_in_Lattice-Based_Cryptography/12279728)
+- [Extended Security of Lattice-based Cryptography (Mélissa Rossi, 2020)](https://www.di.ens.fr/~mrossi/docs/thesis.pdf)
+- [Efficiency and security aspects of lattice-based cryptography (Carl Bootland, 2021)](https://www.esat.kuleuven.be/cosic/publications/thesis-399.pdf)
+- [Post-Quantum Cryptography: Cryptanalysis and Implementation (Fernando Vidria, 2021)](https://fundamental.domains/2021virdiafphd.pdf)
 
 ## History of Lattice-based Cryptography
 - TODO
