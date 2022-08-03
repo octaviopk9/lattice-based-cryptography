@@ -5,6 +5,7 @@ layout: default
 ## What is Lattice-based Cryptography?
 - [A Decade of Lattice Cryptography (Chris Pekert)](https://eprint.iacr.org/2015/939.pdf)
 - [Lattice-based Cryptography (Daniele Micciancio and Oded Regev)](https://cims.nyu.edu/~regev/papers/pqc.pdf)
+- [Basic Lattice Cryptography: Encryption and Fiat-Shamir Signatures (Vadim Lyubashevsky)](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view?usp=sharing)
 
 ## Courses on Lattice-based Cryptography
 - [Lattices, Learning with Errors and Post-Quantum Cryptography (Vinod Vaikuntanathan)](http://people.csail.mit.edu/vinodv/CS294/)
@@ -21,29 +22,34 @@ layout: default
 - [Lattice-based Protocols for Privacy (Cecilia Boschini, 2020)](https://doc.rero.ch/record/328567/files/2020INFO002.pdf)
 - [Practice-Oriented Techniques in Lattice-Based Cryptography (Muhammed F. Esgin, 2020)](https://bridges.monash.edu/articles/thesis/Practice-Oriented_Techniques_in_Lattice-Based_Cryptography/12279728)
 - [Extended Security of Lattice-based Cryptography (Mélissa Rossi, 2020)](https://www.di.ens.fr/~mrossi/docs/thesis.pdf)
+- [Practical lattice-based cryptography over structured lattices (Sarah McCarthy, 2020)](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/211831925/thesis.pdf)
 - [Efficiency and security aspects of lattice-based cryptography (Carl Bootland, 2021)](https://www.esat.kuleuven.be/cosic/publications/thesis-399.pdf)
 - [Post-Quantum Cryptography: Cryptanalysis and Implementation (Fernando Vidria, 2021)](https://fundamental.domains/2021virdiafphd.pdf)
 
 ## History of Lattice-based Cryptography
 - TODO
   
-## Recent Cryptographic Primitives Based on Lattices
-- TODO
-- ([Ref1])
+## Lattice-Based Primitives Selected by NIST for Standardistation
 
-[Ref1]: https://ref1.com
-
-
-## Implementations of Cryptographic Primitives Based on Lattices
-| Name                      | Language    | Description  |
-|---------------------------|-------------|--------------|
-| [todo]                    | C++         | BN254        |
-
-[todo]: https://github.com/todo
+| Name | Primitive | Description |
+| :----------- | :------- | :------- |
+| CRYSTALS-KYBER     | PKE & KEM         | [Oficial site](https://pq-crystals.org/)|
+| CRYSTALS-DILITHIUM | Digital signature | [Oficial site](https://pq-crystals.org/dilithium/index.shtml)|
+| FALCON             | Digital signature | [Oficial site](https://falcon-sign.info/) |
 
 ## Standardization efforts and updates on NIST's competition
 
-- [Link to another page](./another-page.html).
+- [TODO](./another-page.html).
+
+<!--
+## Implementations of Cryptographic Primitives Based on Lattices
+| Name                      | Language    | Description  |
+|---------------------------|-------------|--------------|
+| [todo]                    | todo         | todo        |
+
+[todo]: https://github.com/todo
+-->
+
 
 ## About this page
 
