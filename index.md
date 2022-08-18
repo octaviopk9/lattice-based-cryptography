@@ -7,7 +7,7 @@ layout: default
 - [Lattice-based Cryptography (Daniele Micciancio and Oded Regev)](https://cims.nyu.edu/~regev/papers/pqc.pdf)
 - [Basic Lattice Cryptography: Encryption and Fiat-Shamir Signatures (Vadim Lyubashevsky)](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view?usp=sharing)
 
-## Courses on Lattice-based Cryptography
+## Courses and online lectures
 - [Lattices, Learning with Errors and Post-Quantum Cryptography (Vinod Vaikuntanathan)](http://people.csail.mit.edu/vinodv/CS294/)
 - [Lattices Algorithms and Applications (Daniele Micciancio)](https://cseweb.ucsd.edu/classes/fa21/cse206A-a/)
 - [An Intensive Introduction to Cryptography (Boaz Barak)](https://intensecrypto.org/public/index.html)
@@ -15,8 +15,9 @@ layout: default
 - [Workshop on Mathematics of Lattices and Cybersecurity (Brown University)](https://icerm.brown.edu/topical_workshops/tw15-7-mlc/#lecturevideos)
 - [Lattices in Computer Science (Oded Regev)](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/index.html)
 - [2nd BIU Winter School on Lattice-based Cryptography and Applications](https://cyber.biu.ac.il/event/the-2nd-biu-winter-school/)
+- [Lattices: Algorithms, Complexity, and Cryptography (Simons Institute)](https://simons.berkeley.edu/programs/lattices2020)
 
-## PhD Thesis on Lattice-based Cryptography
+## PhD theses
 - [Design and Implementation of Lattice-Based Cryptography (Tancrède Lepoint, 2014)](https://tlepoint.github.io/phd/lepoint-phd-thesis.pdf)
 - [Efficient Lattice-Based Zero-Knowledge Proofs and Applications (Rafaël del Pino, 2018)](https://tel.archives-ouvertes.fr/tel-02445482/document)
 - [On ideal lattices and the GGH13 multilinear map (Alice Pellet--Mary, 2019)](https://apelletm.pages.math.cnrs.fr/page-perso/documents/articles/PhD_thesis.pdf)
@@ -27,16 +28,20 @@ layout: default
 - [Efficiency and security aspects of lattice-based cryptography (Carl Bootland, 2021)](https://www.esat.kuleuven.be/cosic/publications/thesis-399.pdf)
 - [Post-Quantum Cryptography: Cryptanalysis and Implementation (Fernando Vidria, 2021)](https://fundamental.domains/2021virdiafphd.pdf)
 
-## History of Lattice-based Cryptography
-- TODO
+## Reading groups and seminars open to the public
+- [Monash Cybersecurity Seminars](https://www.monash.edu/it/ssc/cybersecurity/seminars)
   
-## Lattice-Based Primitives Selected by NIST for Standardistation
+## Lattice-based primitives selected by NIST for standardistation
 
 | Name | Primitive | Description |
 | :----------- | :------- | :------- |
 | CRYSTALS-KYBER     | PKE & KEM         | [Oficial site](https://pq-crystals.org/)|
 | CRYSTALS-DILITHIUM | Digital signature | [Oficial site](https://pq-crystals.org/dilithium/index.shtml)|
 | FALCON             | Digital signature | [Oficial site](https://falcon-sign.info/) |
+
+## Evaluation tools
+- [LWE estimator (Albrecht et. al.)](https://estimate-all-the-lwe-ntru-schemes.github.io/docs/)
+- [Leaky LWE estimator (Dachman-Soled et. al.)](https://github.com/lducas/leaky-LWE-Estimator)
 
 ## Standardization efforts and updates on NIST's competition
 
