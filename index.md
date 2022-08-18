@@ -6,16 +6,19 @@ layout: default
 - [A Decade of Lattice Cryptography (Chris Pekert)](https://eprint.iacr.org/2015/939.pdf)
 - [Lattice-based Cryptography (Daniele Micciancio and Oded Regev)](https://cims.nyu.edu/~regev/papers/pqc.pdf)
 - [Basic Lattice Cryptography: Encryption and Fiat-Shamir Signatures (Vadim Lyubashevsky)](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view?usp=sharing)
+- [Tutorial introduction to the security of lattice-based cryptosystems (Laarhoven et. al.)](https://eprint.iacr.org/2012/533.pdf)
 
-## Courses and online lectures
+## Courses, online lectures and resources pages
 - [Lattices, Learning with Errors and Post-Quantum Cryptography (Vinod Vaikuntanathan)](http://people.csail.mit.edu/vinodv/CS294/)
 - [Lattices Algorithms and Applications (Daniele Micciancio)](https://cseweb.ucsd.edu/classes/fa21/cse206A-a/)
+- [Collection of resources and links maintained by Daniele Micciancio](https://cseweb.ucsd.edu/~daniele/LatticeLinks/index.html)
 - [An Intensive Introduction to Cryptography (Boaz Barak)](https://intensecrypto.org/public/index.html)
 - [Lattices in Cryptography (Chris Peikert)](https://web.eecs.umich.edu/~cpeikert/lic15/index.html)
-- [Workshop on Mathematics of Lattices and Cybersecurity (Brown University)](https://icerm.brown.edu/topical_workshops/tw15-7-mlc/#lecturevideos)
 - [Lattices in Computer Science (Oded Regev)](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/index.html)
-- [2nd BIU Winter School on Lattice-based Cryptography and Applications](https://cyber.biu.ac.il/event/the-2nd-biu-winter-school/)
-- [Lattices: Algorithms, Complexity, and Cryptography (Simons Institute)](https://simons.berkeley.edu/programs/lattices2020)
+- [BIU Winter School on Lattice-based Cryptography and Applications (Bar-Ilan University, 2012)](https://cyber.biu.ac.il/event/the-2nd-biu-winter-school/)
+- [Workshop on Mathematics of Lattices and Cybersecurity (Brown University, 2015)](https://icerm.brown.edu/topical_workshops/tw15-7-mlc/#lecturevideos)
+- [Spring School on Lattice-Based Cryptography (University of Oxford, 2017)](https://www.maths.ox.ac.uk/groups/cryptography/spring-school-lattice-based-cryptography)
+- [Lattices: Algorithms, Complexity, and Cryptography (Simons Institute, 2020)](https://simons.berkeley.edu/programs/lattices2020)
 
 ## PhD theses
 - [Design and Implementation of Lattice-Based Cryptography (Tancrède Lepoint, 2014)](https://tlepoint.github.io/phd/lepoint-phd-thesis.pdf)
@@ -39,23 +42,28 @@ layout: default
 | CRYSTALS-DILITHIUM | Digital signature | [Oficial site](https://pq-crystals.org/dilithium/index.shtml)|
 | FALCON             | Digital signature | [Oficial site](https://falcon-sign.info/) |
 
+
+## Implementations of cryptographic primitives
+
+| Name | Language | Author |
+| :---------- | :--- | :------- |
+| [CRYSTALS-KYBER](https://github.com/pq-crystals/kyber) | C  | Oficial  |
+| [CRYSTALS-KYBER](https://github.com/symbolicsoft/kyber-k2so) | Go  | Symbolic Software  |
+| [CRYSTALS-DILITHIUM](https://github.com/pq-crystals/dilithium) | C  | Oficial |
+| [FALCON](https://falcon-sign.info/impl/falcon.h.html) | C  | Oficial |
+| [FALCON](https://github.com/tprest/falcon.py) | Python  | Thomas Prest |
+| [FRODO](https://github.com/Microsoft/PQCrypto-LWEKE) | C  | Oficial |
+| [FRODO](https://github.com/mariiatuzovska/frodo) | Go  | Mariia Tuzovska |
+
 ## Evaluation tools
 - [LWE estimator (Albrecht et. al.)](https://estimate-all-the-lwe-ntru-schemes.github.io/docs/)
 - [Leaky LWE estimator (Dachman-Soled et. al.)](https://github.com/lducas/leaky-LWE-Estimator)
 
+<!--
 ## Standardization efforts and updates on NIST's competition
 
 - [TODO](./another-page.html).
-
-<!--
-## Implementations of Cryptographic Primitives Based on Lattices
-| Name                      | Language    | Description  |
-|---------------------------|-------------|--------------|
-| [todo]                    | todo         | todo        |
-
-[todo]: https://github.com/todo
 -->
-
 
 ## About this page
 
