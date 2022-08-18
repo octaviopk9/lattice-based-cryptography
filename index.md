@@ -54,6 +54,8 @@ layout: default
 | [FALCON](https://github.com/tprest/falcon.py) | Python  | Thomas Prest |
 | [FRODO](https://github.com/Microsoft/PQCrypto-LWEKE) | C  | Oficial |
 | [FRODO](https://github.com/mariiatuzovska/frodo) | Go  | Mariia Tuzovska |
+| [NTRU](https://github.com/prokls/ntrust-native) | Rust  | Lukas Prokop |
+| [SABER](https://github.com/lkiem/rusty_saber) | Rust  | Lukas Prokop & Lukas Kiem |
 
 ## Evaluation tools
 - [LWE estimator (Albrecht et. al.)](https://estimate-all-the-lwe-ntru-schemes.github.io/docs/)
