@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## What is Lattice-based Cryptography?
-- [A Decade of Lattice Cryptography (Chris Pekert)](https://eprint.iacr.org/2015/939.pdf)
+- [A Decade of Lattice Cryptography (Chris Peikert)](https://eprint.iacr.org/2015/939.pdf)
 - [Lattice-based Cryptography (Daniele Micciancio and Oded Regev)](https://cims.nyu.edu/~regev/papers/pqc.pdf)
 - [Basic Lattice Cryptography: Encryption and Fiat-Shamir Signatures (Vadim Lyubashevsky)](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view?usp=sharing)
 - [Tutorial introduction to the security of lattice-based cryptosystems (Laarhoven et. al.)](https://eprint.iacr.org/2012/533.pdf)
@@ -38,27 +38,27 @@ layout: default
 
 | Name | Primitive | Description |
 | :----------- | :------- | :------- |
-| CRYSTALS-KYBER     | PKE & KEM         | [Oficial site](https://pq-crystals.org/)|
-| CRYSTALS-DILITHIUM | Digital signature | [Oficial site](https://pq-crystals.org/dilithium/index.shtml)|
-| FALCON             | Digital signature | [Oficial site](https://falcon-sign.info/) |
+| CRYSTALS-KYBER     | PKE & KEM         | [Official site](https://pq-crystals.org/kyber/)|
+| CRYSTALS-DILITHIUM | Digital signature | [Official site](https://pq-crystals.org/dilithium/)|
+| FALCON             | Digital signature | [Official site](https://falcon-sign.info/) |
 
 
 ## Implementations of cryptographic primitives
 
 | Name | Language | Author |
 | :---------- | :--- | :------- |
-| [CRYSTALS-KYBER](https://github.com/pq-crystals/kyber) | C  | Oficial  |
+| [CRYSTALS-KYBER](https://github.com/pq-crystals/kyber) | C  | Official  |
 | [CRYSTALS-KYBER](https://github.com/symbolicsoft/kyber-k2so) | Go  | Symbolic Software  |
-| [CRYSTALS-DILITHIUM](https://github.com/pq-crystals/dilithium) | C  | Oficial |
-| [FALCON](https://falcon-sign.info/impl/falcon.h.html) | C  | Oficial |
+| [CRYSTALS-DILITHIUM](https://github.com/pq-crystals/dilithium) | C  | Official |
+| [FALCON](https://falcon-sign.info/impl/falcon.h.html) | C  | Official |
 | [FALCON](https://github.com/tprest/falcon.py) | Python  | Thomas Prest |
-| [FRODO](https://github.com/Microsoft/PQCrypto-LWEKE) | C  | Oficial |
+| [FRODO](https://github.com/Microsoft/PQCrypto-LWEKE) | C  | Official |
 | [FRODO](https://github.com/mariiatuzovska/frodo) | Go  | Mariia Tuzovska |
 | [NTRU](https://github.com/prokls/ntrust-native) | Rust  | Lukas Prokop |
 | [SABER](https://github.com/lkiem/rusty_saber) | Rust  | Lukas Prokop & Lukas Kiem |
 
 ## Evaluation tools
-- [LWE estimator (Albrecht et. al.)](https://estimate-all-the-lwe-ntru-schemes.github.io/docs/)
+- [LWE estimator (Albrecht et. al.)](https://lwe-estimator.readthedocs.io/)
 - [Leaky LWE estimator (Dachman-Soled et. al.)](https://github.com/lducas/leaky-LWE-Estimator)
 
 <!--
@@ -73,7 +73,7 @@ We provide a .bib file with references to lattice-based cryptography papers. Fin
 
 ## About this page
 
-This page is based on [zkp.science](https://zkp.science/)'s page, which host a number of resources and references on Zero-Knowledge Proofs. Everyone is welcome to contribute to this effort. Additions, corrections and other suggestions are very much welcome!
+This page is based on [zkp.science](https://zkp.science/)'s page, which hosts a number of resources and references on Zero-Knowledge Proofs. Everyone is welcome to contribute to this effort. Additions, corrections and other suggestions are very much welcome!
 
 ## How to improve this page
 
