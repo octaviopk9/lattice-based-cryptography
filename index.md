@@ -33,7 +33,7 @@ layout: default
 
 ## Reading groups and seminars open to the public
 - [Monash Cybersecurity Seminars](https://www.monash.edu/it/ssc/cybersecurity/seminars)
-  
+
 ## Lattice-based primitives selected by NIST for standardistation
 
 | Name | Primitive | Description |
@@ -66,6 +66,10 @@ layout: default
 
 - [TODO](./another-page.html).
 -->
+
+## Lattice.bib
+
+We provide a .bib file with references to lattice-based cryptography papers. Find it [here](https://github.com/octaviopk9/lattice-based-cryptography/blob/main/lattices.bib).
 
 ## About this page
 
