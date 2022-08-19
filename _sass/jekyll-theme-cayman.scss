@@ -2,6 +2,7 @@
 @import "rouge-github";
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -108,15 +109,14 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  border-bottom: 10px solid #000000;
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 3rem 6rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 2rem 4rem;
   }
 
   @include small {
@@ -127,13 +127,14 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
+  font-family: 'Bebas Neue', cursive;
 
   @include large {
-    font-size: 3.25rem;
+    font-size: 6rem;
   }
 
   @include medium {
-    font-size: 2.25rem;
+    font-size: 3.25rem;
   }
 
   @include small {
@@ -182,7 +183,7 @@ a {
     padding: 2rem 1rem;
     font-size: 1rem;
   }
-  
+
   kbd {
     background-color: #fafbfc;
     border: 1px solid #c6cbd1;
