@@ -1,6 +1,6 @@
 # Lattice-based cryptography
 
-Welcome to our repo of lattice-based cryptography resources!
+Welcome to our repo of Reference repository on Lattice-based Cryptography!
 
 ## Usage
 
@@ -13,7 +13,11 @@ To build locally run:
 
 ## Want to collaborate?
 
-If you want to collaborate, fork the repo and send a PR! Thank you!
+You can propose an edit by sending a PR. (Note that after making your edits, there are 3 confirmations to click through in order to create the “pull request” in the Git repository underlying this page.)
+
+If you don’t feel confident or skilled to directly contribute through github, please feel free to reach out any of the existing contributors with your ideas and comments on how to improve this page.
+
+Thank you!
 
 ## Contact
 
