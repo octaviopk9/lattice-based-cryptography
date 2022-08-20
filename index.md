@@ -57,8 +57,8 @@ layout: default
 | [NTRU](https://github.com/prokls/ntrust-native) | Rust  | Lukas Prokop |
 | [SABER](https://github.com/lkiem/rusty_saber) | Rust  | Lukas Prokop & Lukas Kiem |
 
-## Evaluation tools
-- [LWE estimator (Albrecht et. al.)](https://lwe-estimator.readthedocs.io/)
+## Security estimation tools
+- [Lattice estimator](https://github.com/malb/lattice-estimator/)
 - [Leaky LWE estimator (Dachman-Soled et. al.)](https://github.com/lducas/leaky-LWE-Estimator)
 
 <!--
