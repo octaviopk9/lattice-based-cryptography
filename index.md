@@ -49,6 +49,7 @@ layout: default
 | :---------- | :--- | :------- |
 | [CRYSTALS-KYBER](https://github.com/pq-crystals/kyber) | C  | Official  |
 | [CRYSTALS-KYBER](https://github.com/symbolicsoft/kyber-k2so) | Go  | Symbolic Software  |
+| [CRYSTALS-KYBER](https://github.com/antontutoveanu/crystals-kyber-javascript) | JavaScript  | Anton Tutoveanu  |
 | [CRYSTALS-DILITHIUM](https://github.com/pq-crystals/dilithium) | C  | Official |
 | [FALCON](https://falcon-sign.info/impl/falcon.h.html) | C  | Official |
 | [FALCON](https://github.com/tprest/falcon.py) | Python  | Thomas Prest |
