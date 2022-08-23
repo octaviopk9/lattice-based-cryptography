@@ -50,13 +50,25 @@ layout: default
 | [CRYSTALS-KYBER](https://github.com/pq-crystals/kyber) | C  | Official  |
 | [CRYSTALS-KYBER](https://github.com/symbolicsoft/kyber-k2so) | Go  | Symbolic Software  |
 | [CRYSTALS-KYBER](https://github.com/antontutoveanu/crystals-kyber-javascript) | JavaScript  | Anton Tutoveanu  |
+| [CRYSTALS-KYBER](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/crystals/kyber) | Java  | Legion of the Bouncy Castle Inc. |
 | [CRYSTALS-DILITHIUM](https://github.com/pq-crystals/dilithium) | C  | Official |
+| [CRYSTALS-DILITHIUM](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/crystals/dilithium) | Java  | Legion of the Bouncy Castle Inc. |
 | [FALCON](https://falcon-sign.info/impl/falcon.h.html) | C  | Official |
 | [FALCON](https://github.com/tprest/falcon.py) | Python  | Thomas Prest |
+| [FALCON](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/falcon) | Java  | Legion of the Bouncy Castle Inc. |
+| [FALCON](https://github.com/bcgit/bc-csharp/tree/master/crypto/src/pqc/crypto/falcon) | C#  | Legion of the Bouncy Castle Inc. |
 | [FRODO](https://github.com/Microsoft/PQCrypto-LWEKE) | C  | Official |
 | [FRODO](https://github.com/mariiatuzovska/frodo) | Go  | Mariia Tuzovska |
+| [FRODO](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/frodo) | Java  | Legion of the Bouncy Castle Inc. |
+| [FRODO](https://github.com/bcgit/bc-csharp/tree/master/crypto/src/pqc/crypto/frodo) | C#  | Legion of the Bouncy Castle Inc. |
 | [NTRU](https://github.com/prokls/ntrust-native) | Rust  | Lukas Prokop |
+| [NTRU](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/ntru) | Java  |  Legion of the Bouncy Castle Inc.  |
+| [NTRU](https://github.com/bcgit/bc-csharp/tree/master/crypto/src/pqc/crypto/ntru) | C#  |  Legion of the Bouncy Castle Inc.  |
+| [NTRU Prime](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/ntruprime) | Java  |  Legion of the Bouncy Castle Inc.  |
+| [NTRU Prime](https://github.com/bcgit/bc-csharp/tree/master/crypto/src/pqc/crypto/ntruprime) | C#  |  Legion of the Bouncy Castle Inc.  |
 | [SABER](https://github.com/lkiem/rusty_saber) | Rust  | Lukas Prokop & Lukas Kiem |
+| [SABER](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/saber) | Java  | Legion of the Bouncy Castle Inc. |
+| [SABER](https://github.com/bcgit/bc-csharp/tree/master/crypto/src/pqc/crypto/saber) | C#  | Legion of the Bouncy Castle Inc. |
 
 ## Security estimation tools
 - [Lattice estimator](https://github.com/malb/lattice-estimator/)
