@@ -49,6 +49,7 @@ layout: default
 | :---------- | :--- | :------- |
 | [CRYSTALS-KYBER](https://github.com/pq-crystals/kyber) | C  | Official  |
 | [CRYSTALS-KYBER](https://github.com/symbolicsoft/kyber-k2so) | Go  | Symbolic Software  |
+| [CRYSTALS-KYBER](https://github.com/antontutoveanu/crystals-kyber-javascript) | JavaScript  | Anton Tutoveanu  |
 | [CRYSTALS-KYBER](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/crystals/kyber) | Java  | Legion of the Bouncy Castle Inc. |
 | [CRYSTALS-DILITHIUM](https://github.com/pq-crystals/dilithium) | C  | Official |
 | [CRYSTALS-DILITHIUM](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/crystals/dilithium) | Java  | Legion of the Bouncy Castle Inc. |
