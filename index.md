@@ -25,7 +25,9 @@ layout: default
 
 ## PhD theses
 - [Design and Implementation of Lattice-Based Cryptography (Tancrède Lepoint, 2014)](https://tlepoint.github.io/phd/lepoint-phd-thesis.pdf)
+- [On the Concrete Security of Lattice-Based Cryptography (Michael Walter, 2017)](https://escholarship.org/uc/item/5n51z56s)
 - [Efficient Lattice-Based Zero-Knowledge Proofs and Applications (Rafaël del Pino, 2018)](https://tel.archives-ouvertes.fr/tel-02445482/document)
+- [Gadgets and Gaussians in Lattice-Based Cryptography (Nicholas Genise, 2019)](https://escholarship.org/uc/item/8b40w7r8)
 - [On ideal lattices and the GGH13 multilinear map (Alice Pellet--Mary, 2019)](https://apelletm.pages.math.cnrs.fr/page-perso/documents/articles/PhD_thesis.pdf)
 - [Lattice-based Protocols for Privacy (Cecilia Boschini, 2020)](https://doc.rero.ch/record/328567/files/2020INFO002.pdf)
 - [Practice-Oriented Techniques in Lattice-Based Cryptography (Muhammed F. Esgin, 2020)](https://bridges.monash.edu/articles/thesis/Practice-Oriented_Techniques_in_Lattice-Based_Cryptography/12279728)
