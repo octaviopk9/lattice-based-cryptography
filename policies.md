@@ -18,7 +18,7 @@ We strive to provide resources that:
 
 * Have the explicit permission from the authors of thesis to be posted here.
 * Cover specific topics: rather than providing all resources covering a topic, we
-  try to provide one that seems balance them all.
+  try to provide one that seems to balance them all.
 * Emphasise diversity: we will prioritise including resources which authors are
   from under-represented communities.
 
