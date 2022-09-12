@@ -22,4 +22,4 @@ We strive to provide resources that:
 * Emphasise diversity: we will prioritise including resources which authors are
   from under-represented communities.
 
-[back to main](./)
+[Back to main](./)

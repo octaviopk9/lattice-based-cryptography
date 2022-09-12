@@ -11,4 +11,4 @@ This is inspired by [The Isogeny Club](https://the-isogeny-club.github.io/).
 
 Reach out to [Sofía](https://sofiaceli.com/) and/or [Octavio](https://www.octavio.pk/) via <a href="mailto:thelatticeclub@gmail.com">thelatticeclub (at) gmail (dot) com</a> to join!
 
-[back to main](./)
+[Back to main](./)

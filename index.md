@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## What is Lattice-based Cryptography?
+- [Post-quantum Cryptography: An Introduction (Shweta Agrawal)](http://www.cse.iitm.ac.in/~shwetaag/papers/PQC.pdf)
 - [Lattice-based Cryptography (Daniele Micciancio and Oded Regev)](https://cims.nyu.edu/~regev/papers/pqc.pdf)
 - [Basic Lattice Cryptography: Encryption and Fiat-Shamir Signatures (Vadim Lyubashevsky)](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view?usp=sharing)
 - [Tutorial introduction to the security of lattice-based cryptosystems (Laarhoven et. al.)](https://eprint.iacr.org/2012/533.pdf)
@@ -17,6 +18,7 @@ layout: default
 - [Workshop on Mathematics of Lattices and Cybersecurity (Brown University, 2015)](https://icerm.brown.edu/topical_workshops/tw15-7-mlc/#lecturevideos)
 - [Spring School on Lattice-Based Cryptography (University of Oxford, 2017)](https://www.maths.ox.ac.uk/groups/cryptography/spring-school-lattice-based-cryptography)
 - [Lattices: Algorithms, Complexity, and Cryptography (Simons Institute, 2020)](https://simons.berkeley.edu/programs/lattices2020)
+- [Foundations and Applications of Lattice-based Cryptography (ICMS, 2022)](https://www.icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography)
 
 ## Surveys
 - [A Decade of Lattice Cryptography (Chris Peikert)](https://eprint.iacr.org/2015/939.pdf)
@@ -98,6 +100,10 @@ We provide a .bib file with references to lattice-based cryptography papers. Fin
 ## About this page
 
 This page is based on [zkp.science](https://zkp.science/)'s page, which hosts a number of resources and references on Zero-Knowledge Proofs. Everyone is welcome to contribute to this effort. Additions, corrections and other suggestions are very much welcome!
+
+For more information about the contents and policies we follow, please see [here](./policies).
+
+For more information about the club meetings and events, please see [here](./club).
 
 ## How to improve this page
 
