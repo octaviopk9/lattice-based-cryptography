@@ -37,6 +37,7 @@ layout: default
 - [Practical lattice-based cryptography over structured lattices (Sarah McCarthy, 2020)](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/211831925/thesis.pdf)
 - [Efficiency and security aspects of lattice-based cryptography (Carl Bootland, 2021)](https://www.esat.kuleuven.be/cosic/publications/thesis-399.pdf)
 - [Post-Quantum Cryptography: Cryptanalysis and Implementation (Fernando Vidria, 2021)](https://fundamental.domains/2021virdiafphd.pdf)
+- [Efficient Implementation Techniques for Lattice-based Cryptosystems (Raymond K. Zhao, 2022)](https://bridges.monash.edu/articles/thesis/Efficient_Implementation_Techniques_for_Lattice-based_Cryptosystems/19224867)
 
 ## Other resources
 - [Collection of resources and links maintained by Daniele Micciancio](https://cseweb.ucsd.edu/~daniele/LatticeLinks/index.html)
