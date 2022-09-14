@@ -64,8 +64,10 @@ layout: default
 | [CRYSTALS-KYBER](https://github.com/symbolicsoft/kyber-k2so) | Go  | Symbolic Software  |
 | [CRYSTALS-KYBER](https://github.com/antontutoveanu/crystals-kyber-javascript) | JavaScript  | Anton Tutoveanu  |
 | [CRYSTALS-KYBER](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/crystals/kyber) | Java  | Legion of the Bouncy Castle Inc. |
+| [CRYSTALS-KYBER](https://github.com/bcgit/bc-csharp/tree/master/crypto/src/pqc/crypto/crystals/kyber) | C#  | Legion of the Bouncy Castle Inc. |
 | [CRYSTALS-DILITHIUM](https://github.com/pq-crystals/dilithium) | C  | Official |
 | [CRYSTALS-DILITHIUM](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/crystals/dilithium) | Java  | Legion of the Bouncy Castle Inc. |
+| [CRYSTALS-DILITHIUM](https://github.com/bcgit/bc-csharp/tree/master/crypto/src/pqc/crypto/crystals/dilithium) | C#  | Legion of the Bouncy Castle Inc. |
 | [FALCON](https://falcon-sign.info/impl/falcon.h.html) | C  | Official |
 | [FALCON](https://github.com/tprest/falcon.py) | Python  | Thomas Prest |
 | [FALCON](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/falcon) | Java  | Legion of the Bouncy Castle Inc. |
