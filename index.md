@@ -47,6 +47,7 @@ layout: default
 
 ## Reading groups and seminars open to the public
 - [Monash Cybersecurity Seminars](https://www.monash.edu/it/ssc/cybersecurity/seminars)
+- [ENSL/CWI/RHUL Joint Online Cryptography Seminars](https://jcs.trusted-third-party.org/)
 
 ## Lattice-based primitives selected by NIST for standardization
 
