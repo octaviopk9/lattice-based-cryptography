@@ -12,7 +12,7 @@ layout: default
 - [Lattices, Learning with Errors and Post-Quantum Cryptography (Vinod Vaikuntanathan)](http://people.csail.mit.edu/vinodv/CS294/)
 - [Lattices Algorithms and Applications (Daniele Micciancio)](https://cseweb.ucsd.edu/classes/fa21/cse206A-a/)
 - [An Intensive Introduction to Cryptography (Boaz Barak)](https://intensecrypto.org/public/index.html)
-- [Lattices in Cryptography (Chris Peikert)](https://web.eecs.umich.edu/~cpeikert/lic15/index.html)
+- [Lattices in Cryptography (Chris Peikert)](https://github.com/cpeikert/LatticesInCryptography)
 - [Lattices in Computer Science (Oded Regev)](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/index.html)
 - [BIU Winter School on Lattice-based Cryptography and Applications (Bar-Ilan University, 2012)](https://cyber.biu.ac.il/event/the-2nd-biu-winter-school/)
 - [Workshop on Mathematics of Lattices and Cybersecurity (Brown University, 2015)](https://icerm.brown.edu/topical_workshops/tw15-7-mlc/#lecturevideos)
@@ -67,9 +67,11 @@ layout: default
 | [CRYSTALS-KYBER](https://github.com/antontutoveanu/crystals-kyber-javascript) | JavaScript  | Anton Tutoveanu  |
 | [CRYSTALS-KYBER](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/crystals/kyber) | Java  | Legion of the Bouncy Castle Inc. |
 | [CRYSTALS-KYBER](https://github.com/bcgit/bc-csharp/tree/master/crypto/src/pqc/crypto/crystals/kyber) | C#  | Legion of the Bouncy Castle Inc. |
+| [CRYSTALS-KYBER](https://github.com/jack4818/kyber-py) | Python  | Giacomo Pope |
 | [CRYSTALS-DILITHIUM](https://github.com/pq-crystals/dilithium) | C  | Official |
 | [CRYSTALS-DILITHIUM](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/crystals/dilithium) | Java  | Legion of the Bouncy Castle Inc. |
 | [CRYSTALS-DILITHIUM](https://github.com/bcgit/bc-csharp/tree/master/crypto/src/pqc/crypto/crystals/dilithium) | C#  | Legion of the Bouncy Castle Inc. |
+| [CRYSTALS-DILITHIUM](https://github.com/jack4818/dilithium-py) | Python  | Giacomo Pope |
 | [FALCON](https://falcon-sign.info/impl/falcon.h.html) | C  | Official |
 | [FALCON](https://github.com/tprest/falcon.py) | Python  | Thomas Prest |
 | [FALCON](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/pqc/crypto/falcon) | Java  | Legion of the Bouncy Castle Inc. |
