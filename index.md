@@ -5,7 +5,7 @@ layout: default
 ## What is Lattice-based Cryptography?
 - [Post-quantum Cryptography: An Introduction (Shweta Agrawal)](http://www.cse.iitm.ac.in/~shwetaag/papers/PQC.pdf)
 - [Lattice-based Cryptography (Daniele Micciancio and Oded Regev)](https://cims.nyu.edu/~regev/papers/pqc.pdf)
-- [Basic Lattice Cryptography: Encryption and Fiat-Shamir Signatures (Vadim Lyubashevsky)](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view?usp=sharing)
+- [Lattice Cryptography: Understanding Kyber (ML-KEM) and Dilithium (ML-DSA) (Vadim Lyubashevsky)](https://github.com/VadimLyubash/LatticeTutorial/blob/main/tutorial.pdf)
 - [Tutorial introduction to the security of lattice-based cryptosystems (Laarhoven et. al.)](https://eprint.iacr.org/2012/533.pdf)
 
 ## Courses and online lectures
